@@ -5,7 +5,7 @@ Just using the Email input.
 
 ## flutter documentation
 
-* [Flutter SafeArea Widget](https://docs.flutter.dev/cookbook/forms/validation)
+* [Flutter Build a form with validation](https://docs.flutter.dev/cookbook/forms/validation)
 
 
 ## The result 
