@@ -1,16 +1,14 @@
-# forms_and_textfields
+# Forms and validations
 
-A new Flutter project.
+Just using the Email input.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## flutter documentation
 
-A few resources to get you started if this is your first Flutter project:
+* [Flutter SafeArea Widget](https://docs.flutter.dev/cookbook/forms/validation)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## The result 
+![Result of the code](https://github.com/DavidSilTroy/Flutter_Forms_and_validation/blob/main/flutter_example_form_and_validation.png?raw=true)
+
+_I hope this helps you! I wish you the best._
